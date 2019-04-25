@@ -1,2 +1,2 @@
 yohei commit
-yamasakivi 2test.txt
+yamasaki 2test.txt
